@@ -8,7 +8,7 @@
     --border:2rem solid rgba(0,0,0,.1);
     --outline:1rem solid rgba(0,0,0,.1);
     --outline-hover:.5rem solid var(--black); 
-    --outline-hover1:.5rem solid var(--orange); 
+    --outline-hover1:.5rem solid var(--orange);
 }
 
 *{
